@@ -62,11 +62,3 @@ Contributed to backend logic, data handling, and overall application structure.
 
 
 
-## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bellexi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bellexi)
-[![Gmail](https://img.shields.io/badge/Gmail-bellechongqingxi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BelleCQX-181717?style=flat-square&logo=github)](https://github.com/BelleCQX)
-
-Thanks for stopping by!
-
