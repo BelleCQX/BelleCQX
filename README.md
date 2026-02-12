@@ -48,9 +48,14 @@ Contributed to backend logic, data handling, and overall application structure.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&cache_seconds=86400&v=3" width="400" />
+  <img src="https://streak-stats.demolab.com?user=BelleCQX&cache_seconds=86400" width="400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact&cache_seconds=86400&v=3" width="400" />
+</p>
 
 ---
 
@@ -60,5 +65,6 @@ Contributed to backend logic, data handling, and overall application structure.
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
 
 ✨ Thanks for stopping by!
+
 
 
