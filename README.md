@@ -9,21 +9,35 @@ I’m interested in backend systems, full-stack development, and improving my wo
 
 ---
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bellexi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
+
+---
+
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -34,7 +48,7 @@ I’m interested in backend systems, full-stack development, and improving my wo
 🔗 https://github.com/Razorbird360/FSDP2025_Eatable  
 
 A team-based food ordering platform built as part of coursework.  
-Worked on frontend–backend integration, APIs, and system logic.
+Worked across frontend and backend to integrate APIs, data flow, and core features.
 
 **Tech Used:** React · JavaScript · Python · Docker  
 
@@ -43,7 +57,7 @@ Worked on frontend–backend integration, APIs, and system logic.
 ### 👴 SeniorSync — BED Project  
 🔗 https://github.com/MarcusOngJR/BED_SeniorSync_Assignment  
 
-Backend-focused group project exploring server-side application design and APIs.
+Backend-focused group project exploring API design and server-side logic.
 
 **Tech Used:** JavaScript · Git  
 
@@ -51,25 +65,21 @@ Backend-focused group project exploring server-side application design and APIs.
 
 ## 📈 GitHub Stats
 
-### 🔥 Contribution Streak
+### 🔥 Streak Stats
 <img
   src="https://streak-stats.demolab.com?user=BelleCQX&theme=monokai-metallian"
-  alt="GitHub Streak"
+  alt="BelleCQX GitHub Streak"
 />
 
-### 🟩 Daily Contribution Heatmap
+<br/>
+
+### 🟩 Contribution Heatmap (Daily Commits)
 <img
   src="https://ghchart.rshah.org/3FCF8E/BelleCQX"
-  alt="Daily GitHub Contributions"
+  alt="BelleCQX GitHub Contribution Chart"
 />
 
-
 ---
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bellexi)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
 
 ✨ Thanks for stopping by!
 
