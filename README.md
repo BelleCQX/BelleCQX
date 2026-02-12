@@ -33,19 +33,22 @@ I’m interested in full-stack development and backend systems, and I enjoy impr
 - **[SeniorSync – BED Project](https://github.com/MarcusOngJR/BED_SeniorSync_Assignment)**  
   A backend-focused group project exploring server-side application design and API development.  
   Contributed to backend logic, data handling, and overall application structure.  
-  **Tech:** Javascript, Git
+  **Tech:** JavaScript, Git
 
 ---
 
 ## 📊 GitHub Stats
 
-![Belle's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&theme=radical)
+![Belle's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: https://www.linkedin.com/in/bellexi  
-- GitHub: https://github.com/BelleCQX
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bellexi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bellexi)
+[![Gmail](https://img.shields.io/badge/Gmail-bellechongqingxi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BelleCQX-181717?style=flat-square&logo=github)](https://github.com/BelleCQX)
 
 Thanks for stopping by!
+
