@@ -49,13 +49,20 @@ Contributed to backend logic, data handling, and overall application structure.
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&cache_seconds=86400&v=3" width="400" />
-  <img src="https://streak-stats.demolab.com?user=BelleCQX&cache_seconds=86400" width="400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&cache_seconds=86400&v=10"
+    width="400"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=BelleCQX&cache_seconds=86400"
+    width="400"
+  />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact&cache_seconds=86400&v=3" width="400" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact&cac
+
 
 ---
 
