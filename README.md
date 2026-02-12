@@ -48,9 +48,9 @@ Contributed to backend logic, data handling, and overall application structure.
 
 ## 📊 GitHub Stats
 
-![Belle's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelleCQX)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact)
+![Belle's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&theme=radical&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact&theme=radical&hide_border=true)
 
 ---
 
