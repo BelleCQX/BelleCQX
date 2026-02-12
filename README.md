@@ -11,16 +11,20 @@ I’m interested in full-stack development and backend systems, and I enjoy impr
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
 
 ---
 
@@ -46,33 +50,34 @@ Contributed to backend logic, data handling, and overall application structure.
 
 ---
 
-<!-- Github Activities -->
+<!-- ===================== -->
+<!-- 📈 GitHub Activities -->
+<!-- ===================== -->
+
 ## 📈 GitHub Stats
 
 ### 🔥 Streak Stats
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <p>
-    <img
-      src="https://streak-stats.demolab.com?user=BelleCQX&theme=monokai-metallian&mode=weekly&fire=DD2727&cache_seconds=86400"
-      alt="BelleCQX GitHub Streak"
-    />
-  </p>
-</a>
+<img
+  src="https://streak-stats.demolab.com?user=BelleCQX&theme=monokai-metallian&mode=weekly&fire=DD2727&cache_seconds=86400"
+  alt="BelleCQX GitHub Streak"
+  height="220"
+/>
+
+<br/>
 
 ### 💻 GitHub Profile Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    alt="BelleCQX GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&cache_seconds=86400&v=14"
-    height="192px"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&cache_seconds=86400&v=30"
+  alt="BelleCQX GitHub Stats"
+  height="220"
+/>
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bellexi)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bellexi)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
 
 ✨ Thanks for stopping by!
+
