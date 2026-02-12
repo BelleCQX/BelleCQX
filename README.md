@@ -30,7 +30,7 @@ I’m interested in full-stack development and backend systems, and I enjoy impr
 🔗 https://github.com/Razorbird360/FSDP2025_Eatable  
 
 A team-based full-stack food ordering platform built as part of coursework.  
-Contributed to both frontend and backend development, focusing on feature implementation, data flow, and system integration.  
+Worked across frontend and backend to implement features, manage data flow, and integrate system components.  
 
 **Tech Used:** React · JavaScript · Python · Docker  
 
@@ -40,7 +40,7 @@ Contributed to both frontend and backend development, focusing on feature implem
 🔗 https://github.com/MarcusOngJR/BED_SeniorSync_Assignment  
 
 A backend-focused group project exploring server-side application design and API development.  
-Worked on backend logic, data handling, and application structure as part of a team.  
+Contributed to backend logic, data handling, and overall application structure.  
 
 **Tech Used:** JavaScript · Git  
 
@@ -55,12 +55,11 @@ Worked on backend logic, data handling, and application structure as part of a t
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bellexi)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bellexi)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
 
 ✨ Thanks for stopping by!
+
 
 
 ## 🤝 Let’s Connect
