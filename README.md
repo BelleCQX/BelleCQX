@@ -46,25 +46,27 @@ Contributed to backend logic, data handling, and overall application structure.
 
 ---
 
-## 📊 GitHub Stats
+<!-- Github Activities -->
+## 📈 GitHub Stats
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&cache_seconds=86400&v=10"
-    width="400"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=BelleCQX&cache_seconds=86400"
-    width="400"
-  />
-</p>
+### 🔥 Streak Stats
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <p>
+    <img
+      src="https://streak-stats.demolab.com?user=BelleCQX&theme=monokai-metallian&mode=weekly&fire=DD2727&cache_seconds=86400"
+      alt="BelleCQX GitHub Streak"
+    />
+  </p>
+</a>
 
-<p>
+### 💻 GitHub Profile Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelleCQX&layout=compact&cache_seconds=86400&v=10"
-    width="400"
+    alt="BelleCQX GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&cache_seconds=86400&v=14"
+    height="192px"
   />
-</p>
+</a>
 
 ---
 
@@ -74,4 +76,3 @@ Contributed to backend logic, data handling, and overall application structure.
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bellechongqingxi@gmail.com)
 
 ✨ Thanks for stopping by!
-
