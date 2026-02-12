@@ -51,19 +51,18 @@ Backend-focused group project exploring server-side application design and APIs.
 
 ## 📈 GitHub Stats
 
-### 🔥 Streak Stats
+### 🔥 Contribution Streak
 <img
-  src="https://streak-stats.demolab.com?user=BelleCQX&theme=monokai-metallian&mode=weekly&cache_seconds=86400"
-  alt="BelleCQX GitHub Streak"
+  src="https://streak-stats.demolab.com?user=BelleCQX&theme=monokai-metallian"
+  alt="GitHub Streak"
 />
 
-<br/>
-
-### 🟩 Contribution Heatmap (Daily Squares)
+### 🟩 Daily Contribution Heatmap
 <img
   src="https://ghchart.rshah.org/3FCF8E/BelleCQX"
-  alt="BelleCQX GitHub Contribution Chart"
+  alt="Daily GitHub Contributions"
 />
+
 
 ---
 
