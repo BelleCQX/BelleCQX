@@ -59,10 +59,10 @@ Backend-focused group project exploring server-side application design and APIs.
 
 <br/>
 
-### 📊 Contribution Activity (Daily Commits)
+### 🟩 Contribution Heatmap (Daily Squares)
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BelleCQX&theme=github-compact&hide_border=true"
-  alt="BelleCQX GitHub Activity Graph"
+  src="https://ghchart.rshah.org/3FCF8E/BelleCQX"
+  alt="BelleCQX GitHub Contribution Chart"
 />
 
 ---
