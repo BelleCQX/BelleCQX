@@ -68,9 +68,6 @@ Backend-focused group project exploring API design and server-side logic.
 
 ## 📊 GitHub Stats
 
-### 📈 Overall Stats
-![BelleCQX GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelleCQX&show_icons=true&theme=radical&cache_seconds=1800)
-
 ### 🔥 Streak
 ![BelleCQX GitHub Streak](https://streak-stats.demolab.com?user=BelleCQX&theme=radical&cache_seconds=1800)
 
